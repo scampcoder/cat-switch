@@ -12,3 +12,9 @@ h1 {
   left: 0px;
   bottom: 0px;
 }
+
+.pawprint {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
