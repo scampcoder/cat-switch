@@ -1,13 +1,22 @@
+body {
+  background-color: black;
+}
+
 h1 {
   text-align: center;
+  color: white;
 }
 .whitecat {
   position: absolute;
   right: 0px;
   bottom: 0px;
+  width: auto;
+  height: 450;
 }
 
 .blackcat {
+  height: 450;
+  width: auto;
   position: absolute;
   left: 0px;
   bottom: 0px;
@@ -19,4 +28,5 @@ h1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  cursor: pointer;
 }
